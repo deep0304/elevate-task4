@@ -43,4 +43,5 @@ Pull request merged from `dev` → `main`.
 ### Tag Added to Repo
 Tag `v1.0` created and pushed to the repository.  
 
-<img width="895" height="440" alt="tag v1.0 created" src="https://github.com/user-attachments/assets/93987c4a-1209-403f-b3d3-f7f58ec6a847" />
+<img width="657" height="223" alt="add tag in git hub" src="https://github.com/user-attachments/assets/fbe18b82-3766-476c-9ebf-d6af652d33cc" />
+
